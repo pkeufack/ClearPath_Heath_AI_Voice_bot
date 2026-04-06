@@ -23,6 +23,11 @@ Core flow:
 - `backend/dashboard.py`: Streamlit dashboard
 - `backend/triage_rules.json`: symptom triage rules
 - `backend/requirements.txt`: Python dependencies
+- `docs/ClearPath_Health_paper.pdf`: project paper/report
+
+## Project Paper
+The project paper is included in this repository at:
+- `docs/ClearPath_Health_paper.pdf`
 
 ## Setup
 1. Create and activate a virtual environment.

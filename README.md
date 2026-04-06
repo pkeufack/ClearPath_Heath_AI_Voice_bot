@@ -2,7 +2,7 @@
 
 Clinical triage voice assistant backend and dashboard.
 
-# NOTE!!!! to test this system, placing a phone call is the best way experience it, due to credit preservation you will have to get in touch with me so I can provide that number. Also there is a paper that you can access to read more about this. Thank you for exploring this.
+# NOTE!!!! to test this system, placing a phone call is the best way experience it, due to credit preservation you will have to get in touch with me so I can provide that number. Also there is a paper that you can access to read more about this and also a youtube video(https://youtu.be/zAsvl8DbEgU). Thank you for exploring this.
 
 ## Project Overview
 This project receives call webhooks, classifies urgency (Category 1/2/3), stores call records, and displays them in a Streamlit dashboard.

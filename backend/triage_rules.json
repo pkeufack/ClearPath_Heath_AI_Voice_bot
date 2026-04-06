@@ -1,0 +1,76 @@
+{
+  "protocol_name": "OCHS Clinical Triage Guidelines",
+  "version": "1.0",
+  "categories": [
+    {
+      "category": 1,
+      "name": "Emergency Symptoms (Immediate Action Required)",
+      "action": "Warm hand-off to triage nurse.",
+      "symptoms": [
+        "Chest pain/Chest pressure",
+        "Severe shortness of breath",
+        "Difficulty breathing",
+        "Unable to speak in full sentences",
+        "Stroke symptoms (e.g., facial drooping, slurred speech, sudden weakness or numbness of the face, arms, or legs)",
+        "Acute vision loss",
+        "Severe allergic reactions (difficulty breathing, swelling of the face, lips, and throat)",
+        "Loss of consciousness",
+        "Major trauma (e.g., fall >10 feet or high-speed motor vehicle collision)",
+        "Uncontrolled bleeding from any site",
+        "Poisoning",
+        "Ingested foreign body (i.e. swallowing a bead, coin, etc.)",
+        "Active seizure",
+        "Sudden confusion or mental status change",
+        "Suicidal thoughts",
+        "Trouble speaking",
+        "Inconsolable child",
+        "Severe headache - new onset - the worst headache of their life",
+        "Bleeding in pregnant or postpartum women",
+        "Fever (>104°F) in children and adolescents",
+        "Loss of balance",
+        "Decreased fetal movement",
+        "New onset dizziness in Adults over 65"
+      ]
+    },
+    {
+      "category": 2,
+      "name": "Urgent Symptoms (Same-Day Appointment)",
+      "action": "If none is available, contact/leave a message for the triage nurse.",
+      "symptoms": [
+        "COVID-19 positive (home test) (suitable for telehealth)",
+        "Adult with fever over 103°F",
+        "Any child with fever (under 7 years old) (measured or suggestive fever)",
+        "Acute abdominal pain with either of those symptoms: (nausea, fever, vomiting, loss of appetite, unable to keep food down, blood in stool, blood in urine)",
+        "Rectal bleeding (bright red blood)",
+        "Moderate asthma or COPD exacerbation (shortness of breath, cough, wheezing)",
+        "New-onset severe headache (with or without blurred vision, vomiting)",
+        "Blurred vision",
+        "UTI symptoms in adults over 65",
+        "Flank pain",
+        "UTI symptoms in adults younger than 65 with flank pain or fever",
+        "Testicular pain in those under 18 years old",
+        "Skin infection (redness, swelling)",
+        "Concerns for blood clots in legs (swollen calf, redness, pain)",
+        "Blood in urine",
+        "Acute back pain with numbness and tingling in lower legs",
+        "New-onset urinary or bowel incontinence",
+        "Heart palpitations"
+      ]
+    },
+    {
+      "category": 3,
+      "name": "Moderate Concerns (Appointment Within 48-72 Hours)",
+      "action": "Schedule an appointment (first try with their PCP; if none available book with another provider in the same clinic). As long as it is within 72 hours, no note to the triage nurse is needed. If an appointment cannot be found within a 72 hour window, send a TE to the triage nurse indicating symptoms indicate an appt within 72 hrs (per protocol), but none are available.",
+      "symptoms": [
+        "Persistent cough with or without fever (no shortness of breath or wheezing)",
+        "UTI symptoms (burning on urination, urinary frequency without fever or flank pain)",
+        "Rash (insect bites, tick bites, poison ivy, concerns for shingles, hives)",
+        "Acute back pain without numbness or tingling (2 to 3 days)",
+        "Nausea or vomiting lasting less than 3 days; able to eat or drink",
+        "Hemorrhoids",
+        "Joint pain",
+        "Headaches/Migraines"
+      ]
+    }
+  ]
+}
